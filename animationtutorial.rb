@@ -5,7 +5,6 @@ class Animationtutorial < Formula
   sha256 "d5098aa2b5ee659cd803d7298fad491623c31c53530a5bd9e5b4e65e44dbd771"
 
   depends_on "bash" => :run
-  depends_on "tput" => :run
 
   def install
       bin.install "bin/animation"
