@@ -7,7 +7,7 @@ class Animationtutorial < Formula
   depends_on "bash" => :run
 
   def install
-      bin.install "bin/animation"
+  	bin.install "bin/animation"
   end
 
   test do
