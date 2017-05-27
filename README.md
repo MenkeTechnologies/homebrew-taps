@@ -4,6 +4,7 @@ Tap this repo
 
 # brew install saverun
 
+# brew install animationtutorial
 
 Two commands are :
 save-interpret-run
