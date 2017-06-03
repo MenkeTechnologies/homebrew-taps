@@ -6,7 +6,3 @@ Tap this repo
 
 # brew install animationtutorial
 
-Two commands are :
-save-interpret-run
-
-save-compile-run
