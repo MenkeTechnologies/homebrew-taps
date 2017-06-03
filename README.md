@@ -1,8 +1,11 @@
-Tap this repo
+# Tap this repo
+```
+brew tap MenkeTechnologies/taps
+```
 
-# brew tap MenkeTechnologies/taps
+# Install the programs
 
-# brew install saverun
-
-# brew install animationtutorial
-
+```
+brew install saverun
+brew install animationtutorial
+```
