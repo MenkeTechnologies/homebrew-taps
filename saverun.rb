@@ -5,8 +5,8 @@ class Saverun < Formula
   url "https://github.com/MenkeTechnologies/SaveRun/archive/v1.0.4.tar.gz"
   sha256 "7257eb3bfb1ed4df03c1fec06082fb518ffc5fb913e0dcbb267134e5b2c693d6"
 
-  depends_on :formula => "fswatch"
-  depends_on :formula => "bash"
+  depends_on "fswatch"
+  depends_on "bash"
 
   def install
     bin.install "bin/save-interpret-run"

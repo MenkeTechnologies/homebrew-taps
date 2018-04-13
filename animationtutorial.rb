@@ -4,7 +4,7 @@ class Animationtutorial < Formula
     url "https://github.com/MenkeTechnologies/AnimationTutorial/archive/v1.0.0.tar.gz"
     sha256 "d5098aa2b5ee659cd803d7298fad491623c31c53530a5bd9e5b4e65e44dbd771"
 
-    depends_on :formula => "bash"
+    depends_on "bash"
 
     def install
         bin.install "bin/animation"
